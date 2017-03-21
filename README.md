@@ -1,2 +1,2 @@
 # DataSettingWindow
-Data setting window class for configuring input file
+Data setting window class for configuring input file.
